@@ -13,7 +13,7 @@
           "type": "root"
         },
         {
-          "background": "#ffffff",
+          "background": "#D4D4D4",
           "foreground": "#100e23",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
@@ -21,7 +21,7 @@
           "type": "session"
         },
         {
-          "background": "#91ddff",
+          "background": "#7AABD4",
           "foreground": "#100e23",
           "powerline_symbol": "\ue0b0",
           "properties": {
@@ -35,7 +35,7 @@
           "type": "path"
         },
         {
-          "background": "#95ffa4",
+          "background": "#A9D3AB",
           "foreground": "#193549",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
@@ -43,7 +43,7 @@
           "type": "git"
         },
         {
-          "background": "#906cff",
+          "background": "#D6ADD5",
           "foreground": "#100e23",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
@@ -51,7 +51,7 @@
           "type": "python"
         },
         {
-          "background": "#ff8080",
+          "background": "#F58E8E",
           "foreground": "#ffffff",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
